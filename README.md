@@ -13,7 +13,8 @@
 - 4本以上のオス-メスジャンパワイヤ(https://www.switch-science.com/catalog/2294/)
 
 # 用意するもの(アカウント)
-- Arduino IoT Cloud Entryプラン
+- Arduino IoT Cloudアカウントと Entryプラン
+
 今回は有料のEntryプランを使用します。**すでに課金プラン(Entry, Maker, Maker Plus)を使っている方は本手順をスキップしてください。
 ダウングレードの必要はございません。**
 
@@ -68,7 +69,9 @@ https://create.arduino.cc/getting-started/plugin/install
 | GPIO7 | Trig |
 | GPIO6 | Echo |
 
+
 参考までに、ジャンパ結線した実例を掲載します。
+
 <img src="https://github.com/henjin0/gekkan-io-2022-01-ArduinoIoT-NodeRed/blob/main/image/Real_circuit.jpg" width="600">
 
 <img src="https://github.com/henjin0/gekkan-io-2022-01-ArduinoIoT-NodeRed/blob/main/image/Real_circuit_side.jpg" width="600">
