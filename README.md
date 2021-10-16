@@ -23,22 +23,27 @@ Arduinoアカウントの作成自体は無料で行えます。
 https://docs.arduino.cc/
 
 アカウント作成後、先程のarduino.ccのページのメニューバーにあるCloud→IoT Cloudを選択してください。
+
 <img src="https://github.com/henjin0/gekkan-io-2022-01-ArduinoIoT-NodeRed/blob/main/image/CloudIoT.png" width="600">
 
 ページ遷移後、ARDUINO IOT CLOUDをクリックしてください。
+
 <img src="https://github.com/henjin0/gekkan-io-2022-01-ArduinoIoT-NodeRed/blob/main/image/ArduinoCloudIoT_In.png" width="600">
 
 クリックするとIoT Cloudのページに飛びますので、UPGRADE PLANを選択し、Plan変更ページに移動します。
+
 <img src="https://github.com/henjin0/gekkan-io-2022-01-ArduinoIoT-NodeRed/blob/main/image/UPGRADE_PLAN.png" width="600">
 
 **ここから料金が発生します。**　ページ遷移直後はFreeプランが選択されていると思います。ここではEntryプランを使用するため、EntryプランのPURCHASEをクリックします。
 ちなみに、プラン名上部にあるMONTHLY/YEARLYのトグルボタンをクリックすると月払い/年払いを指定できます。年払いにすると月払いに
 比べて幾分安くなるようです。
+
 <img src="https://github.com/henjin0/gekkan-io-2022-01-ArduinoIoT-NodeRed/blob/main/image/Plans.png" width="600">
 
 その後、ページの手順に沿ってクレジットカードで手続きをすすめると、PlanがEntryに変更されます。
 もし一通り遊んだあとにEntryプランをやめたい場合には、FreeプランにCHANGE PLANすることで再度無料プランにダウングレードできるかと思います。
 現在の自分のプランを確認する際には、再度UPGRADE PLANをクリックしてPlan変更ページに行くと確認できます。
+
 <img src="https://github.com/henjin0/gekkan-io-2022-01-ArduinoIoT-NodeRed/blob/main/image/Currentplan.png" width="600">
 
 
