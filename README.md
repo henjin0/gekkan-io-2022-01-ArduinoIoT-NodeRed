@@ -66,7 +66,7 @@ https://create.arduino.cc/getting-started/plugin/install
 
 # 今回の配線
 
-超音波センサHC-SR04とのジャンパ結線は下記の表を参考にしてください。
+下記の表と配線図を参考に超音波センサHC-SR04および抵抗付きLEDと結線してください。
 
 | Arduino　MKR WIFI 1010 | HC-SR04 |
 ----|---- 
@@ -75,8 +75,16 @@ https://create.arduino.cc/getting-started/plugin/install
 | GPIO7 | Trig |
 | GPIO6 | Echo |
 
+| Arduino　MKR WIFI 1010 | 抵抗付きLED |
+----|---- 
+| GND | Cathode(カソード,-側) |
+| GPIO13 | Anode(アノード,+側) |
 
-参考までに、ジャンパ結線した実例を掲載します。
+
+<img src="https://github.com/henjin0/gekkan-io-2022-01-ArduinoIoT-NodeRed/blob/main/image/circuit.png" width="600">
+
+
+参考までに、結線した実例を掲載します。
 
 <img src="https://github.com/henjin0/gekkan-io-2022-01-ArduinoIoT-NodeRed/blob/main/image/Real_circuit.jpg" width="600">
 
