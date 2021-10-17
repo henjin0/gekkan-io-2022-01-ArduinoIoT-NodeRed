@@ -40,7 +40,7 @@ void loop() {
 
 void onLedoutChange()  {
   // set property ledout
-  ledout?digitalWrite(LED_BUILTIN, HIGH):digitalWrite(LED_BUILTIN, LOW);
+  ledout?digitalWrite(13, HIGH):digitalWrite(13, LOW);
 }
 void onSensornumChange()  {
   // Do nothing
