@@ -4,9 +4,6 @@
 # 用意するもの(物品)
 販売リンクは秋月電子通商ですが、Switchscienceなどでも購入可能です。
 
-<img src="https://github.com/henjin0/gekkan-io-2022-01-ArduinoIoT-NodeRed/blob/main/image/LED.jpg" width="300">
-
-
 - Arduino MKR WiFi 1010(https://akizukidenshi.com/catalog/g/gM-16556/)
 - 超音波距離センサ HC-SR04(https://akizukidenshi.com/catalog/g/gM-11009/)
 - 抵抗内蔵LED(https://akizukidenshi.com/catalog/g/gI-16687/)
@@ -75,7 +72,7 @@ https://create.arduino.cc/getting-started/plugin/install
 | GPIO7 | Trig |
 | GPIO6 | Echo |
 
-| Arduino　MKR WIFI 1010 | 抵抗付きLED |
+| Arduino　MKR WIFI 1010 | 抵抗内蔵LED |
 ----|---- 
 | GND | Cathode(カソード,-側) |
 | GPIO13 | Anode(アノード,+側) |
