@@ -2,15 +2,16 @@
 月間I/O 2022年 1月号の記事「Arduino Cloud IoTとNode-RED(enebular)を連携させる」の付録です。
 
 # 用意するもの(物品)
-販売リンクはSwitchscienceですが、秋月電子通商などでも購入可能です。
-また、LEDは下記写真に示すArduino MKR WIFI 1010に実装されているLEDを使用するため購入は不要です。
+販売リンクは秋月電子通商ですが、Switchscienceなどでも購入可能です。
 
 <img src="https://github.com/henjin0/gekkan-io-2022-01-ArduinoIoT-NodeRed/blob/main/image/LED.jpg" width="300">
 
 
-- Arduino MKR WiFi 1010(Shttps://www.switch-science.com/catalog/7384/)
-- 超音波距離センサ HC-SR04(https://www.switch-science.com/catalog/6080/)
-- 4本以上のオス-メスジャンパワイヤ(https://www.switch-science.com/catalog/2294/)
+- Arduino MKR WiFi 1010(https://akizukidenshi.com/catalog/g/gM-16556/)
+- 超音波距離センサ HC-SR04(https://akizukidenshi.com/catalog/g/gM-11009/)
+- 抵抗内蔵LED(https://akizukidenshi.com/catalog/g/gI-16687/)
+- 4本以上のオス-メスジャンパワイヤ(https://akizukidenshi.com/catalog/g/gC-08934/)
+- ブレッドボード(https://akizukidenshi.com/catalog/g/gP-04303/)
 
 # 用意するもの(アカウント)
 - Arduino IoT Cloudアカウントと Entryプラン
